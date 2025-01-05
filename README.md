@@ -1,5 +1,1 @@
-# Chatbot Java GUI Client Server using Database
-
-Implementasi Chatbot dalam socket dan menggunakan Database sebagai keyword.
-
-Data didatabase masih sedikit, jadi botnya masih butuh banyakk data lagi.
+#This aims to create a chatbot that can do multiple things, like dynamic and responsive live interactions, and combines AI with user engagement. It also involves a capable virtual assistant which can execute user queries in a conversational and natural manner. It needs to integrate Natural Language Processing (NLP) and Machine Learning algorithms to chat like humans and also deliver contextual and personalised responses.
